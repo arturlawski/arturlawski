@@ -11,34 +11,20 @@
 </div>
 
 ```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                   .:;irr:                                                  │
-│              .,s3HGSS#S##M2r,             artur@github                     │
-│            :3SB@&BB####GHG9B#5s:   .....                                   │
-│ ..        ;G&#&999SS9B&&BBB&BBBSi ......                                   │
-│ ..       XG9G5r:..,,;rrsA5H9@@@@S; .....  Role      Software Engineer      │
-│ ....... X&&SA,         ..,:iAS&@@H .....  Focus     Web · Desktop · Backend │
-│ ...... r9BMi,.         ..,::;i2#@&r ....  Based     Wloclawek / Poznan     │
-│ ...... ABh;,.          ..,,:;i;X#@M ..,,                                   │
-│ ...... XMs:,.           .,:::;rr3#H..,,,                                   │
-│ ,,,... A3i:,   ...    .,::;;;;isAMh...,,   Languages C# · TypeScript · JS   │
-│ ,,,,., A2;;;;;iX52Ar:;s2hh2XsXsss55 ..,,                                   │
-│ ,,,,,, XX;AhHMGGHH2: ,XMGMHSHGM5XA2....,  Stack     .NET · Angular · React │
-│ :::,,,:Xr;is225Ar;,  .rsss23552XXs5s....                                   │
-│ :::::,;Ar;,.....     .ir;;;;iiiiss2i.,,,                                   │
-│ :::::,,rsi;,.    .    ,rs;:;;isXXsA,,,,,  Building scalable software       │
-│ ::::::,;Xr;:,. .,;sAsA33AsiiirsXXAr::::;  and straightforward solutions.   │
-│ ;;::::::AXi;:,,.,,AGMHSHXrirssssXAr:;;;;                                   │
-│ ;;;;;:::rAri;:,. .,,:iissrrrsXXXAAi;;iii                                   │
-│ ;;;;;;;;,sXri;:;rsrsXA2A222XXsXA2r;iiiii                                   │
-│ iii;;;;;;;AXrrrrsrrisXAAAAAA2A25X;iiiiii                                   │
-│ iiiii;;;;;r3AXXri;rX23352AX25335iiiiiiii                                   │
-│ iiiiiiiiii:3Hh2srri;irssssA2hHMA;iiiiiii                                   │
-│ rrirrii;;;rAhS#hArriirrsXA5HSHhAs;;;irrr                                   │
-│ rrii;;isAhAXX2H9B#GHHGGS9BB#H32XG#M5Xrii                                   │
-│ iisA3GB@@A;srss2M#B&&&&B9SHh52ArH@@@@BG5                                   │
-│ MS&@@@@@@3;iiirrsA5hHHHMh3352AX3@@@@@@@@                                   │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌─ artur@github ──────────────────────────────────────────────────────────────┐
+│                                                                            │
+│                                            OS      Windows · Linux          │
+│                                            Role    Software Engineer        │
+│                                            Focus   Web · Desktop · Backend  │
+│                                            Based   Wloclawek / Poznan       │
+│                                                                            │
+│                                            Languages                       │
+│                                            C# · TypeScript · JavaScript     │
+│                                                                            │
+│     Building scalable software and turning complex business problems      │
+│     into straightforward, well-designed solutions.                         │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ## About me
