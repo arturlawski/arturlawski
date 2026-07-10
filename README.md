@@ -13,11 +13,11 @@
 ```text
               ┌─ artur@github ──────────────────────────────────────────────────────────────┐
               │                                                                             │
-              │       _.ooo-._                        OS      Windows · Linux               │
-              │     .OOOP   _ '.                      Role    Software Engineer             │
-              │    dOOOO   (_)  \                     Focus   Web · Desktop · Backend       │
-              │   OOOOOb         |                    Languages                             |
-              │   OOOOOOb.       |                    C# · TypeScript · JavaScript          |
+              │       _.ooo-._                                                              │
+              │     .OOOP   _ '.                                                            │
+              │    dOOOO   (_)  \                                                           │
+              │   OOOOOb         |                                                          |
+              │   OOOOOOb.       |                                                          |
               │   OOOOOOOOb      |                                                          │
               │    YOO(_)OOO    /                                                           │
               │     'OOOOOY  _.'                                                            │
