@@ -11,19 +11,26 @@
 </div>
 
 ```text
-┌─ artur@github ──────────────────────────────────────────────────────────────┐
-│                                                                            │
-│      █████╗ ██╗                         OS      Windows · Linux             │
-│     ██╔══██╗██║                         Role    Software Engineer           │
-│     ███████║██║                         Focus   Web · Desktop · Backend     │
-│     ██╔══██║██║                         Based   Wloclawek / Poznan, Poland  │
-│     ██║  ██║███████╗                                                          │
-│     ╚═╝  ╚═╝╚══════╝                     Languages  C# · TypeScript · JS     │
-│                                                                            │
-│     Building scalable software and turning complex business problems      │
-│     into straightforward, well-designed solutions.                         │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  ....         .:--:        ....                                           │
+│  .....     .=#%%%%%#+:  .......  artur@github                             │
+│  ......   .#@%##%%%@@@+........                                           │
+│  ....... .#%-.  ..:=*@@- ......  Role      Software Engineer              │
+│  ....... *%-      ..:=%#.......  Focus     Web · Desktop · Backend        │
+│  ........*=.      ..::+%:......  Based     Wloclawek / Poznan, Poland     │
+│  :.......=:...:..:--:-=*:......                                           │
+│  :::.....=-++**-.=#***==.......  Languages C# · TypeScript · JavaScript   │
+│  ::::::.:-:-==:. --=+===-.....:                                           │
+│  ::::::.:-:.  .  :-::--=:....::  Stack     .NET · Angular · React · Next.js │
+│  :::::::.--:..:=+*=---==:::::::                                           │
+│  -:::::::-=::..-===--==-::::---                                           │
+│  --:::::::--::--=======-::-----  Building scalable software.              │
+│  ----:::::-+=-:-=+==+*=:-------  Solving complex problems with            │
+│  -------:::+#+-:---=**-::------  straightforward, well-designed solutions. │
+│  ------:-=+=+%#**#%%#++#+=-----                                           │
+│  ----=*#@@=:-=*%%%#*+=*@@@%*+=-                                           │
+│  =*%@@@@@@#::--=++++=*@@@@@@@@#                                           │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ## About me
