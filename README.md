@@ -63,20 +63,3 @@ I specialize in building scalable web and desktop applications that improve busi
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-
-## GitHub
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arturlawski&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arturlawski&layout=compact&hide_border=true&theme=github_dark)
-
-</div>
-
----
-
-<div align="center">
-
-📍 Wloclawek / Poznan, Poland · 🌐 [cv.lawski.eu](https://cv.lawski.eu) · ✉️ [artur@lawski.eu](mailto:artur@lawski.eu)
-
-</div>
