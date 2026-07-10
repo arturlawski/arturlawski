@@ -11,22 +11,22 @@
 </div>
 
 ```text
-┌─ artur@github ──────────────────────────────────────────────────────────────┐
-│                                                                             │
-│       _.ooo-._                        OS      Windows · Linux               │
-│     .OOOP   _ '.                      Role    Software Engineer             │
-│    dOOOO   (_)  \                     Focus   Web · Desktop · Backend       │
-│   OOOOOb         |                    Languages                             |
-│   OOOOOOb.       |                    C# · TypeScript · JavaScript          |                         │
-│   OOOOOOOOb      |                                                          │
-│    YOO(_)OOO    /                                                           │
-│     'OOOOOY  _.'                                                            │
-│       '""""''                                                               │
-│                                                                             │
-│     Building scalable software and turning complex business problems        │
-│     into straightforward, well-designed solutions.                          │
-│                                                                             │
-└──────────────────────────────────────────────────────────────────────────── ┘
+                                                ┌─ artur@github ──────────────────────────────────────────────────────────────┐
+                                                │                                                                             │
+                                                │       _.ooo-._                        OS      Windows · Linux               │
+                                                │     .OOOP   _ '.                      Role    Software Engineer             │
+                                                │    dOOOO   (_)  \                     Focus   Web · Desktop · Backend       │
+                                                │   OOOOOb         |                    Languages                             |
+                                                │   OOOOOOb.       |                    C# · TypeScript · JavaScript          |                         
+                                                │   OOOOOOOOb      |                                                          │
+                                                │    YOO(_)OOO    /                                                           │
+                                                │     'OOOOOY  _.'                                                            │
+                                                │       '""""''                                                               │
+                                                │                                                                             │
+                                                │     Building scalable software and turning complex business problems        │
+                                                │     into straightforward, well-designed solutions.                          │
+                                                │                                                                             │
+                                                └──────────────────────────────────────────────────────────────────────────── ┘
 ```
 
 ## About me
