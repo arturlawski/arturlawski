@@ -12,14 +12,15 @@
 
 ```text
 ┌─ artur@github ──────────────────────────────────────────────────────────────┐
-│                                                                            │
-│                                            OS      Windows · Linux          │
-│                                            Role    Software Engineer        │
-│                                            Focus   Web · Desktop · Backend  │
-│                                            Based   Wloclawek / Poznan       │
-│                                                                            │
-│                                            Languages                       │
-│                                            C# · TypeScript · JavaScript     │
+│             .    ╭╮                                                        │
+│          ╭──┴────╯╰─╮                   OS      Windows · Linux             │
+│      ╭───┤  ┌────┐  ├───╮               Role    Software Engineer           │
+│      │   │  │0101│  │   │               Focus   Web · Desktop · Backend     │
+│      │ ● │  │1010│  │ ● │               Based   Wloclawek / Poznan          │
+│      ╰───┤  └────┘  ├───╯                                                  │
+│          ╰────┬─────╯                   Languages                           │
+│             ╭─┴────╮                     C# · TypeScript · JavaScript        │
+│            ╰────────╯                                                       │
 │                                                                            │
 │     Building scalable software and turning complex business problems      │
 │     into straightforward, well-designed solutions.                         │
