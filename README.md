@@ -13,15 +13,16 @@
 ```text
 ┌─ artur@github ──────────────────────────────────────────────────────────────┐
 │                                                                            │
-│             ▄██████▄                    OS      Windows · Linux             │
-│          ▄██▀  ▄▄  ▀██▄                 Role    Software Engineer           │
-│         ██    ████    ██                Focus   Web · Desktop · Backend     │
-│        ██      ▀▀   ▄▄ ██               Based   Wloclawek / Poznan          │
-│        ██  ▄▄      ███ ██                                                   │
-│         ██ ████    ▀▀ ██                Languages                           │
-│          ▀██▄▄  ▀▀▄██▀                 C# · TypeScript · JavaScript        │
-│             ▀██████▀                                                       │
-│                ☯                                                           │
+│       _.ooo-._   sgj                   OS      Windows · Linux             │
+│     .OOOP   _ '.                      Role    Software Engineer           │
+│    dOOOO   (_)  \                     Focus   Web · Desktop · Backend     │
+│   OOOOOb         |                    Based   Wloclawek / Poznan          │
+│   OOOOOOb.       |                                                       │
+│   OOOOOOOOb      |                    Languages                           │
+│    YOO(_)OOO    /                     C# · TypeScript · JavaScript        │
+│     'OOOOOY  _.'                                                        │
+│  jgs  '""""''                                                            │
+│                                                                            │
 │     Building scalable software and turning complex business problems      │
 │     into straightforward, well-designed solutions.                         │
 │                                                                            │
